@@ -1,6 +1,6 @@
 const createAsyncMiddleware = require('json-rpc-engine/src/createAsyncMiddleware')
 const { ethErrors } = require('eth-rpc-errors')
-const fetch = require('node-fetch').default()
+const fetch = require('node-fetch').default
 
 const RETRIABLE_ERRORS = [
   // ignore server overload errors
