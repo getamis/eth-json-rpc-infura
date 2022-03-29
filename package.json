@@ -1,6 +1,6 @@
 {
   "name": "@qubic-js/eth-json-rpc-infura",
-  "version": "5.1.2",
+  "version": "5.1.3",
   "main": "src/index.js",
   "directories": {
     "test": "test"
